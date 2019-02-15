@@ -1,0 +1,15 @@
+    {
+        "msg91": {
+            "authKey": "254851AFm5tqYiD8Vc5c2dfc44",
+            "senderId": "STYLCR",
+            "routeId": "4"
+        },
+        "connectionString": {
+            "master": {
+                "host": "ls-2aeb1c1fe0b660112ee44b393820ed9231ef3e56.cme9hi51gi7l.ap-south-1.rds.amazonaws.com",
+                "user": "dbmasteruser",
+                "password": "a$qVdt6!0vXdVMa$C.IlWkbty: Y%.x9_",
+                "database": "stylecracker"
+            }
+        }
+    }
